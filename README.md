@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaison Sebastian
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Creating Web Application Using DotNet Technology
 - 🌱 I’m currently learning Dotnet
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Dotnet Projects
 - 📫 How to reach me jaisonksebastian1999@gmail.com
 
 <!---
