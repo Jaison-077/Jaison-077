@@ -42,13 +42,13 @@ A high-throughput automation service enabling end-to-end unit tracking across fa
 ---
 
 ### 📈 GitHub Ecosystem
-<!-- These are dynamic markdown indicators showcasing tech stats -->
+<!-- Configured to dynamically load analytics from your specific user profile -->
 ![](https://vercel.app)
 ![](https://vercel.app)
 
 ---
 
 ### 🤝 Connect with Me
+* **LinkedIn**: [linkedin.com/in/jaison-sebastian-542412136](https://linkedin.com)
 * **Portfolio**: [portfolio-jaison.netlify.app](https://netlify.app)
-* **LinkedIn**: [://linkedin.com](https://www.://linkedin.com)
 * **Email**: officialjaisonksebastian1999@gmail.com
