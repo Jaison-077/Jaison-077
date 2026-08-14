@@ -49,6 +49,6 @@ A high-throughput automation service enabling end-to-end unit tracking across fa
 ---
 
 ### 🤝 Connect with Me
-* **LinkedIn**: [linkedin.com/in/jaison-sebastian-542412136](https://linkedin.com)
-* **Portfolio**: [portfolio-jaison.netlify.app](https://netlify.app)
+* **LinkedIn**: [linkedin.com/in/jaison-sebastian-542412136](https://linkedin.com/in/jaison-sebastian-542412136)
+* **Portfolio**: [portfolio-jaison.netlify.app](https://portfolio-jaison.netlify.app)
 * **Email**: officialjaisonksebastian1999@gmail.com
